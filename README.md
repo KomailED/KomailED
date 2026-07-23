@@ -22,7 +22,7 @@
 
 ## 💡 About Me
 
-- 🎓 **Background:** Computer Engineering Student, passionate about how code, mathematics, and systems intersect.
+- 🎓 **Background:** Computer Engineering Student at **Kharazmi University**, passionate about how code, mathematics, and systems intersect.
 - 🎯 **Focus Area:** AI Engineering — progressing through Python, Advanced Data Processing, Machine Learning, and System Optimization.
 - ⚡ **Engineering Mindset:** I don't just write code that works; I optimize for **memory efficiency, time complexity, and robust architecture**.
 - 🚀 **Long-term Vision:** Building high-impact AI solutions, solving real-world challenges, and scaling tech companies to global excellence.

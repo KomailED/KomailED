@@ -86,14 +86,6 @@ Here are a few highlights from my repository showcase:
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KomailED&show_icons=true&theme=dark&color_thresholds=true&hide_border=true&title_color=ff2a2a&text_color=ffffff&bg_color=0d1117" alt="Komail's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KomailED&layout=compact&hide_border=true&title_color=ff2a2a&text_color=ffffff&bg_color=0d1117" alt="Top Languages" width="48%" />
-</div>
-
-<br>
-
-<div align="center">
-  <a href="mailto:komail.eslamdoost.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Let's_Connect-Open_to_Opportunities-red?style=for-the-badge&logo=mail.ru&logoColor=white" />
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KomailED&theme=dark&background=0D1117&fire=FF2A2A&ring=FF2A2A&currStreakNum=FF2A2A&date_format=M%20j%5B%20Y%5D" alt="Komail's GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KomailED&layout=compact&theme=dark&title_color=ff2a2a&text_color=ffffff&bg_color=0d1117&hide_border=true" alt="Top Languages" width="48%" />
 </div>
